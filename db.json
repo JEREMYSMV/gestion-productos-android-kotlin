@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Augusto Condorchua",
+      "username": "admin",
+      "password": "123456"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jägermeister 700 ml",
+      "categoria": "Licores",
+      "precio": 89.9,
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "nombre": "Smirnoff Vodka 750 ml",
+      "categoria": "Vodka",
+      "precio": 39.9,
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "nombre": "red label",
+      "categoria": "whiski",
+      "precio": 80,
+      "stock": 2
+    }
+  ],
+  "nextId": 6
+}

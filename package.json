@@ -1,0 +1,14 @@
+{
+  "name": "grupo1pa3-api",
+  "version": "1.0.0",
+  "description": "API REST de Un Finde Tranqui para la app Grupo1PA3 (login JWT + CRUD de productos)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
