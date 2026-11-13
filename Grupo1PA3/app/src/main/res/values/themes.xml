@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Grupo1PA3" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Grupo1PA3.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/brand_primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/uft_splash_icon</item>
+        <item name="postSplashScreenTheme">@style/Theme.Grupo1PA3</item>
+    </style>
+</resources>
